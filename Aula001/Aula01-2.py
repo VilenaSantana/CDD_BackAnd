@@ -1,0 +1,5 @@
+name=input("Digite seu nome: ")
+sobrename=input("Digite seu sobrenome: ")
+idade=input("Digite sua idade: ")
+time=input("Qual time você torce: ")
+print(f"Olá, {name} {sobrename}, você tem {idade} anos e torce pelo time {time}")
